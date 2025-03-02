@@ -8,7 +8,7 @@
 - 💰 **Budget Planner Agent**: Suggests budget flights, hotels, and daily expenses while keeping the total cost under a specified limit.
 - 📅 **Itinerary Planner Agent**: Creates a detailed 3-day travel plan while considering budget and weather conditions.
 - 🌐 **Real-time Data**: Uses **SerperDevTool** for live travel information.
-- 🤖 **LLM-Powered Agents**: Uses **Gemini 1.5 Flash** for intelligent trip planning.
+- 🤖 **LLM-Powered Agents**: Uses **Gemini 2.0 Flash** for intelligent trip planning.
 
 ---
 
