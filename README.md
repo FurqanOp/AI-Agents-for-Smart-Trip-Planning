@@ -91,8 +91,8 @@ This project is licensed under the **MIT License**.
 
 ## 📞 Contact
 - **Author:** Furqan Ahmed  
-- **LinkedIn:** [Your Profile](https://linkedin.com/in/your-profile)  
-- **GitHub:** [Your GitHub](https://github.com/your-username)  
+- **Email:** iamfurqanahmed10@gmail.com  
+- **GitHub:** [Your GitHub](https://github.com/FurqanOp)  
 
 Happy Traveling! ✈️🌍
 
